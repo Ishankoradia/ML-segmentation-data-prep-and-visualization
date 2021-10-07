@@ -3,7 +3,7 @@ For any Machine learning task, the most important step is to prepare data i.e. t
 for the Oxford-IIIT Pet Dataset (famous cats-dogs dataset) that can be downloaded here https://www.robots.ox.ac.uk/~vgg/data/pets/
 
 ## Learning  
-My main aim behind doing was to understand the Image Segmentation task and the complexty behind it. And also learn to write a clean and concise code that is easier to debug.
+My main aim behind working this out was to understand the Image Segmentation task and the complexty behind it. And also practise to write a clean and concise code that is easier to debug.
 
 ## Challenges
 
