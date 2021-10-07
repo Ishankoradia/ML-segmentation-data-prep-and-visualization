@@ -3,13 +3,11 @@ For any Machine learning task, the most important step is to prepare data i.e. t
 for the Oxford-IIIT Pet Dataset (famous cats-dogs dataset) that can be downloaded here https://www.robots.ox.ac.uk/~vgg/data/pets/
 
 ## Learning  
-My main aim behind working this out was to understand the Image Segmentation task and the complexty behind it. And also practise to write a clean and concise code that is easier to debug.
+My aim behind working this out was to understand the Image Segmentation task and the complexty behind it. And also practise to write a clean and concise code that is easier to debug.
 
 ## Challenges
+The main challenge I faced was when I was translating the visualization code in julia. It was a little tricky to draw segmentation annotations on the image, it was not as straight forward as it was in python.
 
-
-## Technologies used
-- Vue.js for front-end
-- Laravel for back-end
-- an account on pusher.com for building websocket connections
-- Laravel echo with pusher-js to listen on the channels for events
+## Languages used
+- Python 3.8
+- Julia 1.6
